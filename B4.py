@@ -1,0 +1,9 @@
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+c=int("input("enter the number:"))
+if(a > b):
+  print("A is bigger",a)
+elif(b > c):
+  print("b is bigger",b)
+elif(c > a)
+  print("c is bigger",c)
